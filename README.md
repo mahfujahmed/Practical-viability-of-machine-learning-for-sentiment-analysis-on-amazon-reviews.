@@ -1,0 +1,2 @@
+# Practical-viability-of-machine-learning-for-sentiment-analysis-on-amazon-reviews.
+Investigate the important trade-offs between a model's (1) predictive performance, especially its ability to handle real world data imbalance; (2) its computational efficiency, which I'll measure through training and prediction speeds; and (3) its interpretability, which I'll assess using Explainable AI (XAI) techniques
